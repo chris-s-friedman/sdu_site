@@ -1,0 +1,8 @@
+[build]
+publish = "safety_down_under/public"
+command = "cd safety_down_under && hugo --gc"
+
+[build.environment]
+HUGO_VERSION = "0.95.0"
+HUGO_THEME = "repo"
+HUGO_BASEURL = "/"
