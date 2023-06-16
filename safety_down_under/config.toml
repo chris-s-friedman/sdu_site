@@ -44,13 +44,8 @@ url = "/work/"
 weight = 2
 
 [[menu.main]]
-name = "About"
-url = "/about/"
-weight = 3
-
-[[menu.main]]
-name = "History"
-url = "/history/"
+name = "Vendors"
+url = "/vendors/"
 weight = 3
 
 [[menu.main]]

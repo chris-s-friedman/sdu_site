@@ -1,6 +1,3 @@
 ---
-title: 'Contact'
-date: 
+title: 'Contact Us'
 ---
-
-
