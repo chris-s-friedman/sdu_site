@@ -5,7 +5,7 @@ icon: 'services/service-icon-1.png'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Accounting'
+heroHeading: 'We repair most manufacturers playgrounds and play structures.'
 heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
 heroBackground: 'services/service1.jpg'
 ---

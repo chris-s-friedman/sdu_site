@@ -1,28 +1,15 @@
-email: 'example@example.com'
-phone: 'XXXX XXX XXX'
-businessName: 'Hugo Serif'
-address: |
-  123 Some Street
-  City, State 12345
-hours:
-  - day: Monday
-    open: 8:30am
-    close: 5:00pm
-  - day: Tuesday
-    open: 8:30am
-    close: 5:00pm
-  - day: Wednesday
-    open: 8:30am
-    close: 5:00pm
-  - day: Thursday
-    open: 8:30am
-    close: 5:00pm
-  - day: Friday
-    open: 8:30am
-    close: 5:00pm
-  - day: Saturday
-    open: Closed
-    close:
-  - day: Sunday
-    open: Closed
-    close:
+email: 'mail@safetydownunder.com'
+office: '(877)-685-3866'
+fax: '(877)-685-3867'
+businessName: 'Safety Down Under, Inc.'
+address: 
+PO Box 522
+Pittstown, NJ 08867
+
+President: Robyn Bercaw
+email: robyn@safetydownunder.com
+
+Vice President: Martin Bercaw
+cell: '(908) 507 0545'
+email: martin@safetydownunder.com
+
