@@ -1,15 +1,15 @@
-email: 'mail@safetydownunder.com'
-office: '(877)-685-3866'
-fax: '(877)-685-3867'
-businessName: 'Safety Down Under, Inc.'
+businessName: "Safety Down Under, Inc."
 address: |
   PO Box 522
   Pittstown, NJ 08867
-
-President: Robyn Bercaw
-email: robyn@safetydownunder.com
-
-Vice President: Martin Bercaw
-cell: '(908) 507 0545'
-email: martin@safetydownunder.com
-
+email: "mail@safetydownunder.com"
+phone: "(877)-685-3866"
+fax: "(877)-685-3867"
+president:
+  name: Robyn Bercaw
+  email: robyn@safetydownunder.com
+  phone:
+vice_president:
+  name: Martin Bercaw
+  email: martin@safetydownunder.com
+  phone: "(908) 507 0545"
