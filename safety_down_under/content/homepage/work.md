@@ -8,7 +8,8 @@ buttonLink: 'info'
 
 We are a family business serving New Jersey, Southern New York, and
 Eastern Pennsylvania with the inspection, maintainence, repair, and installation
-of playgrounds. We also supply our own engineered wood fiber safety surfacing that is ADA compliant.
+of playgrounds. We also supply our own engineered wood fiber safety surfacing
+that is ADA compliant.
 We are CPSI playground safety specalists with X years of combined experience.
 We are X bonded and belong to X contract things.
 
