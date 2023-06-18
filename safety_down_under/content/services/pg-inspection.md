@@ -1,12 +1,12 @@
 ---
-title: 'Playground Repairs'
+title: 'Playground Inspection'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-1.png'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'We repair most manufacturers playgrounds and play structures.'
-heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
+heroHeading: 'We inspect playgrounds.'
+heroSubHeading: 'You give us moolah and we inspect your playground'
 heroBackground: 'services/service1.jpg'
 ---
 

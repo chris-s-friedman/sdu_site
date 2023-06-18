@@ -14,13 +14,13 @@ min = "0.92.0"
 google_analytics_id = ""
 
 [params.logo]
-mobile = "images/logo-mobile.svg"
+mobile = "images/sdu_logo.jpg"
 mobile_height = "36px"
 mobile_width = "36px"
-desktop = "images/logo.svg"
+desktop = "images/sdu_logo.jpg"
 desktop_height = "29px"
 desktop_width = "217px"
-alt = "Hugo Hero"
+alt = "Safety Down Under"
 
 [params.homepage_meta_tags]
 meta_description = "Your home for playground safety."
