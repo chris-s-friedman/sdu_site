@@ -7,9 +7,9 @@ buttonLink: 'info'
 ---
 
 We are a family business serving New Jersey, Southern New York, and
-Eastern Pennsylvania with the inspection, maintainence, repair, and installation
+Eastern Pennsylvania with the inspection, maintenance, repair, and installation
 of playgrounds. We also supply our own engineered wood fiber safety surfacing that is ADA compliant.
-We are CPSI playground safety specalists with X years of combined experience.
+We are CPSI playground safety specialists with X years of combined experience.
 We are X bonded and belong to X contract things.
 
 We also partner with George Ely Associates as distributors for the Central and

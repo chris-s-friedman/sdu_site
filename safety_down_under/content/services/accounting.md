@@ -6,7 +6,7 @@ draft: false
 featured: true
 weight: 1
 heroHeading: 'We repair most manufacturers playgrounds and play structures.'
-heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
+heroSubHeading: 'We offer general accounting on hourly rate or fixed fee'
 heroBackground: 'services/service1.jpg'
 ---
 
