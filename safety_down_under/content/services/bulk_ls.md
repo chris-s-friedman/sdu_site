@@ -1,12 +1,12 @@
 ---
-title: 'SDU Engineered Wood Fiber'
+title: 'Bulk Landscape Supplies'
 date: 2018-11-28T15:14:54+10:00
 icon: 'services/service-icon-5.png'
 featured: true
 draft: false
 weight: 6
-heroHeading: 'SDU Engineered Wood Fiber'
-heroSubHeading: 'Saving for retirement requires careful planning.'
+heroHeading: 'Bulk Lanscape Supplies'
+heroSubHeading: 'Landscape mulch, topsoil, compost, infield mix.'
 heroBackground: 'services/service1.jpg'
 ---
 
