@@ -5,8 +5,8 @@ icon: 'services/service-icon-1.png'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'We inspect playgrounds.'
-heroSubHeading: 'You give us moolah and we inspect your playground'
+heroHeading: 'Playground inspections performed by Certified Playground Safety Specialists.'
+heroSubHeading: 'NPSI certified playground safety inspectors.Errors and omissions insured and Bonded.'  
 heroBackground: 'services/service1.jpg'
 ---
 
