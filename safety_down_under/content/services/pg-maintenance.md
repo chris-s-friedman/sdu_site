@@ -1,12 +1,12 @@
 ---
-title: 'Playground Maintenance'
+title: 'Playground Maintenance and Repair'
 date: 2018-11-28T15:14:39+10:00
 icon: 'services/service-icon-2.png'
 featured: true
 draft: false
 weight: 4
-heroHeading: 'Maintenance'
-heroSubHeading: 'Expert advice and guidance when you need it most.'
+heroHeading: 'Maintenance and Repair'
+heroSubHeading: 'Yearly Contacts and Emergency Services.'
 heroBackground: 'services/service2.jpg'
 ---
 

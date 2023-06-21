@@ -1,16 +1,16 @@
 ---
-title: 'Playground Repairs'
-date: 2018-11-18T12:33:46+10:00
-icon: 'services/service-icon-1.png'
-draft: false
+title: 'Bulk Landscape Supplies'
+date: 2018-11-28T15:14:54+10:00
+icon: 'services/service-icon-5.png'
 featured: true
-weight: 2
-heroHeading: 'We repair most manufacturers playgrounds and play structures.'
-heroSubHeading: 'We offer general accounting on hourly rate or fixed fee'
+draft: false
+weight: 6
+heroHeading: 'Bulk Lanscape Supplies'
+heroSubHeading: 'Landscape mulch, topsoil, compost, infield mix.'
 heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
+Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 

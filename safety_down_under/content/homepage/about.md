@@ -4,8 +4,6 @@ weight: 2
 background: ''
 ---
 
+At Safety Down Under, Inc our goal is to see that every playground will have a safe play environment that is in compliance with guidelines and standards set forth by the Consumer Product Safety Commission (CPSC) and the American Society for Testing and Materials (ASTM).
 
-We are able to provide playground safety inspections by certified playground
-safety inspectors (CPSI) as well as provide playground installations,
-maintenance, repair, and engineered wood fiber safety surfacing. We install X
-playground systems and X kinds of safety surfacing.
+Our PRO-ACTIVE comprehensive maintenance programs are designed to identify and eliminate hazards before they can cause injury or harm.

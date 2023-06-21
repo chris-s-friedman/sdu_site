@@ -1,12 +1,12 @@
 ---
-title: 'Playground Installation'
+title: 'Playground Design and Installation'
 date: 2018-11-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
 weight: 3
-heroHeading: 'Installations'
-heroSubHeading: 'Let us install your playgrounds, safety surfacing, fencing, and other recreation needs for you.'
+heroHeading: 'Playground Design and Installations'
+heroSubHeading: 'NPCAI certified playground installers.'
 heroBackground: 'services/service2.jpg'
 ---
 
