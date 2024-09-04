@@ -5,8 +5,8 @@ draft: false
 weight: 3
 heroHeading: 'Cargo Terminal'
 heroSubHeading: 'Dockyard construction planning and review.'
-heroBackground: 'https://source.unsplash.com/tjX_sniNzgQ/1600x400'
-thumbnail: 'https://source.unsplash.com/tjX_sniNzgQ/400x300'
+heroBackground: 'work/playground_a1.jpg'
+thumbnail: 'work/playground_a1.jpg'
 images: ['work/playground_a1.jpg', 'work/playground_a2.jpg', 'work/playground_a3.jpg']
 ---
 

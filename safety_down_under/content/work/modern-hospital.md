@@ -5,8 +5,8 @@ draft: false
 weight: 2
 heroHeading: 'Modern Hospital Design'
 heroSubHeading: 'Designing a new modern hospital wing'
-heroBackground: 'https://source.unsplash.com/iqGtaQnk3VM/1600x400'
-thumbnail: 'https://source.unsplash.com/iqGtaQnk3VM/600x400'
+heroBackground: 'work/playground_c1.jpg'
+thumbnail: 'work/playground_c1.jpg'
 images: ['work/playground_c1.jpg', 'work/playground_c2.jpg', 'work/playground_c3.jpg']
 ---
 
