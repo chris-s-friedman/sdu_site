@@ -14,12 +14,12 @@ min = "0.92.0"
 google_analytics_id = ""
 
 [params.logo]
-mobile = "images/sdu_logo.jpg"
-mobile_height = "36px"
-mobile_width = "36px"
-desktop = "images/sdu_logo.jpg"
-desktop_height = "29px"
-desktop_width = "217px"
+mobile = "favicons/android-chrome-192x192.png"
+mobile_height = "10px"
+mobile_width  = "10px"
+desktop = "favicons/favicon-apple-touch.png"
+desktop_height = "10px"
+desktop_width  = "10px"
 alt = "Safety Down Under"
 
 [params.homepage_meta_tags]
