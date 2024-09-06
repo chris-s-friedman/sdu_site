@@ -4,7 +4,7 @@ on:
   pull_request:
     branches: [main]
   workflow_dispatch:
-  
+
 jobs:
   build:
     name: Lint New Commits
@@ -15,7 +15,6 @@ jobs:
         with:
           fetch-depth: 0
           ref: ${{ github.head_ref }}
-
 
       - name: Lint Code Base
         uses: github/super-linter@latest
@@ -28,4 +27,5 @@ jobs:
           PYTHON_BLACK_CONFIG_FILE: pyproject.toml
           PYTHON_ISORT_CONFIG_FILE: pyproject.toml
           MARKDOWN_CONFIG_FILE: .markdownlint.yml
+          FIX_CSS: true
           LINTER_RULES_PATH: /

@@ -12,6 +12,7 @@ min = "0.92.0"
 
 [params]
 google_analytics_id = ""
+custom_css = ["css/contact_form.css"]
 
 [params.logo]
 mobile = "favicons/android-chrome-192x192.png"
